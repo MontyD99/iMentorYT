@@ -21,3 +21,5 @@ List our your certifications and/or link to them. Also include the ones you plan
 | CompTIA A+            |                08/13/23                |     xxx        | 
 | CompTIA Network+      |                09/10/23                |
 | CompTIA Security+     |                09/24/23                |
+| Splunk Core Certifed  |                04/09/24                |
+      Power User
