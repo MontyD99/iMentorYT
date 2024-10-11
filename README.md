@@ -1,8 +1,8 @@
-## [Your Name] Porfolio
+## Monty Dennis Portfolio
 
 # Portfolio
 
-Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
+Hello, I'm Monty Dennis and this is my Cyber Security Portfolio. I am currently seeking a challenging position that leverages my [mention key skills] and allows me to contribute to the dynamic field of cybersecurity. I am eager to join a forward-thinking organization where my skills and enthusiasm for security can make a meaningful impact.
 
 
 # Project Overview 
@@ -16,10 +16,9 @@ Hi, I'm xyz and this is my Cyber Security Portfolio. I am currently seeking a ch
 # Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
-|     Certification     |               Completed?               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| CompTIA A+            |                08/13/23                |     xxx        | 
-| CompTIA Network+      |                09/10/23                |
-| CompTIA Security+     |                09/24/23                |
-| Splunk Core Certifed 
-      Power User        |                04/09/24                |
+|     Certification               |               Completed?               |
+| ------------------------------  | -------------------------------------- | 
+| CompTIA A+                      |                08/13/23                | 
+| CompTIA Network+                |                09/10/23                |
+| CompTIA Security+               |                09/24/23                |
+| Splunk Core Certifed Power User |                04/09/24                |
