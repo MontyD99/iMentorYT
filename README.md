@@ -18,5 +18,6 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx        | 
-
+| CompTIA A+            |                08/13/23                |     xxx        | 
+| CompTIA Network+      |                09/10/23                |
+| CompTIA Security+     |                09/24/23                |
