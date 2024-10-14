@@ -8,7 +8,7 @@ Hello, I'm Monty Dennis and this is my Cyber Security Portfolio. I am currently 
 # Project Overview 
 |     Project     |                     Skills                |     Tools       |      Link       |
 | --------------- |  ---------------------------------------- | --------------- | --------------- |
-| Building a SIEM |     Log management, Security Archtecture  | Elastic |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| Building a SIEM |     Log management, Security Archtecture  |    Elastic      |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 | HackTheBox      |  Network Traffic Analysis, Incident Handling, Security Monitoring, Windows Event Logs, Malware Analysis | Elastic, Splunk, IDS/IPS, YARA, Sigma, ETW | <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a> |
 
 
