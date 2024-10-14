@@ -6,10 +6,10 @@ Hello, I'm Monty Dennis and this is my Cyber Security Portfolio. I am currently 
 
 
 # Project Overview 
-|     Project     |       Summary     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------ ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Created Home Lab  | Log management, Security Archtecture  | Elastic |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
-| HackTheBox      |   "...Armed with the necessary theoretical background and multiple practical exercises, students will go through all security analysis stages, from traffic analysis and SIEM monitoring to DFIR activities and reporting. Upon completing this job role path, you will have obtained the practical skills and mindset necessary to monitor enterprise-level infrastructure and detect intrusions..." | Network Traffic Analysis, Incident Handling, Security Monitoring, Windows Event Logs, Malware Analysis | Elastic, Splunk, IDS/IPS, YARA, Sigma, ETW | <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a> |
+|     Project     |                     Skills                |     Tools       |      Link       |
+| --------------- |  ---------------------------------------- | --------------- | --------------- |
+| Building a SIEM |     Log management, Security Archtecture  | Elastic |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
+| HackTheBox      |  Network Traffic Analysis, Incident Handling, Security Monitoring, Windows Event Logs, Malware Analysis | Elastic, Splunk, IDS/IPS, YARA, Sigma, ETW | <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a> |
 
 
 
