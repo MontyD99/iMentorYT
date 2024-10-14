@@ -10,7 +10,11 @@ Hello, I'm Monty Dennis and this is my Cyber Security Portfolio. I am currently 
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | Elastic |  <a href="[https://google.com]https://github.com/iMentorYT/SIEM/tree/main">SIEM</a>   |
 
-HackTheBox
+  HackTheBox
+    SOC Analyst Path
+  "...Armed with the necessary theoretical background and multiple practical exercises, students will go through all security analysis stages, from traffic analysis and SIEM monitoring to DFIR activities and reporting. Upon completing this job role path, you will have obtained the practical skills and mindset necessary to monitor enterprise-level infrastructure and detect intrusions..."
+  Skills Used: Elastic, Splunk, Network Traffic Analysis, IDS, IPS, Incident Response, YARA, Sigma,
+               Malware Analysis, and ETW amongst others
 
 # Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
