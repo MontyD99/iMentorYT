@@ -16,9 +16,9 @@ Hello, I'm Monty Dennis and this is my Cyber Security Portfolio. I am currently 
 # Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
-|     Certification               |               Completed?               |
-| ------------------------------  | -------------------------------------- | 
-| CompTIA A+                      |                08/13/23                | 
-| CompTIA Network+                |                09/10/23                |
-| CompTIA Security+               |                09/24/23                |
-| Splunk Core Certifed Power User |                04/09/24                |
+|     Certification               |               Completed                |       Link      |
+| ------------------------------  | -------------------------------------- | ----------------
+| CompTIA A+                      |                08/13/23                |                 |
+| CompTIA Network+                |                09/10/23                |                 |
+| CompTIA Security+               |                09/24/23                |                 |
+| Splunk Core Certifed Power User |                04/09/24                |                 |
